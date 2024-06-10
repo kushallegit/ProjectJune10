@@ -1,0 +1,39 @@
+.navbar{
+    background-color: black;
+    margin: 0;
+
+}
+
+.nav-list{
+    list-style-type: disc;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+}
+
+.nav-link{
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+
+.nav-item{
+    padding: 14px 20px;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin: ;
+}
+
+img{
+    display: block;
+    margin: auto;
+    height: 400px;
+    width: 600px;
+}
